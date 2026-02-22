@@ -1,0 +1,12 @@
+[submodule "addons/2026_02_22_gdp_3d_macro_partition"]
+	path = addons/2026_02_22_gdp_3d_macro_partition
+	url = https://github.com/EloiStree/2026_02_22_gdp_3d_macro_partition.git
+[submodule "addons/2025_06_05_gdp_two_points_quad_loader"]
+	path = addons/2025_06_05_gdp_two_points_quad_loader
+	url = https://github.com/EloiStree/2025_06_05_gdp_two_points_quad_loader.git
+[submodule "addons/2026_01_18_gdp_nes_controller_udp"]
+	path = addons/2026_01_18_gdp_nes_controller_udp
+	url = https://github.com/EloiStree/2026_01_18_gdp_nes_controller_udp.git
+[submodule "addons/2024_10_19_gdp_relocation_rotation"]
+	path = addons/2024_10_19_gdp_relocation_rotation
+	url = https://github.com/EloiStree/2024_10_19_gdp_relocation_rotation.git

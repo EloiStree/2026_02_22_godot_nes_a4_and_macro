@@ -10,3 +10,6 @@
 [submodule "addons/2024_10_19_gdp_relocation_rotation"]
 	path = addons/2024_10_19_gdp_relocation_rotation
 	url = https://github.com/EloiStree/2024_10_19_gdp_relocation_rotation.git
+[submodule "addons/2026_03_08_gdp_xr_basic_to_macro"]
+	path = addons/2026_03_08_gdp_xr_basic_to_macro
+	url = https://github.com/EloiStree/2026_03_08_gdp_xr_basic_to_macro.git

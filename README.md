@@ -20,6 +20,8 @@ We will learn:
 - How to create drone race track and load it on the real world.
 - ...
 
+But also pratice a lot Git and Git Submodule:
+https://github.com/EloiStree/HelloGit   
 
 ```
 git clone --recurse-submodules https://github.com/EloiStree/2026_02_22_godot_nes_a4_and_macro.git

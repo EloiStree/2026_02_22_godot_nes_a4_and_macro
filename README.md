@@ -1,5 +1,24 @@
-# 2026_02_22_godot_nes_a4_and_macro
-Workshop in Godot about creating a macro and a testing app in Godot XR load by a4 paper.
+# NES A4 and macro
+
+My aim is to teach how to make application in XR Godot that you can load from two points in the space.
+
+The aim is to learn Godot on the way and to finish an an exercice when you need to remove control your favority game from Xbox simulation tools for QA testing.
+
+We will learn:
+- How to read XR Input
+- How to read Keyboard and Xbox Input in XR
+- How to create interactive button with Godot XR Tools
+- How to pick and move object in a XR scene and duplicate them
+- How to create macro as text from 3D partition in space
+- How to move and rotate an object by creating a drone and a steering car
+- How to import assets from other application in Godot on Android
+. - From Open Brush
+  - From Open Blocks
+  - From Gravity Sketch
+  - From Downloads
+- How to measure real world from Godot.
+- How to create drone race track and load it on the real world.
+- ...
 
 
 ```

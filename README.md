@@ -54,7 +54,6 @@ git submodule add https://github.com/EloiStree/2024_10_02_gdp_patoune_race.git a
 # Some track race for building drone game.
 git submodule add https://github.com/EloiStree/2024_06_31_gdp_drone_race_checkpoint.git addons/2024_06_31_gdp_drone_race_checkpoint
 
-git submodule update --init --recursive
 
 
 

@@ -12,4 +12,12 @@ git submodule add https://github.com/EloiStree/2025_06_05_gdp_two_points_quad_lo
 git submodule add https://github.com/EloiStree/2026_01_18_gdp_nes_controller_udp.git addons/2026_01_18_gdp_nes_controller_udp
 git submodule update --init --recursive
 
+
 ```
+
+
+To Add:
+- https://github.com/EloiStree/2025_09_15_gdp_import_assets_on_quest.git
+- https://github.com/EloiStree/2025_10_19_gdp_kid_toy_skid_steering
+- https://github.com/EloiStree/2025_04_15_gdp_kid_toy_ovni_code
+- https://github.com/EloiStree/2025_11_14_gdp_webcam_to_texture.git

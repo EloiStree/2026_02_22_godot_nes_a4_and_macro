@@ -16,3 +16,18 @@
 [submodule "addons/2026_03_09_gdp_open_xr_to_measure_pivot"]
 	path = addons/2026_03_09_gdp_open_xr_to_measure_pivot
 	url = https://github.com/EloiStree/2026_03_09_gdp_open_xr_to_measure_pivot.git
+[submodule "addons/2025_09_15_gdp_import_assets_on_quest"]
+	path = addons/2025_09_15_gdp_import_assets_on_quest
+	url = https://github.com/EloiStree/2025_09_15_gdp_import_assets_on_quest.git
+[submodule "addons/2025_04_15_gdp_kid_toy_ovni_code"]
+	path = addons/2025_04_15_gdp_kid_toy_ovni_code
+	url = https://github.com/EloiStree/2025_04_15_gdp_kid_toy_ovni_code.git
+[submodule "addons/2025_11_14_gdp_webcam_to_texture"]
+	path = addons/2025_11_14_gdp_webcam_to_texture
+	url = https://github.com/EloiStree/2025_11_14_gdp_webcam_to_texture.git
+[submodule "addons/2024_10_02_gdp_patoune_race"]
+	path = addons/2024_10_02_gdp_patoune_race
+	url = https://github.com/EloiStree/2024_10_02_gdp_patoune_race.git
+[submodule "addons/2024_06_31_gdp_drone_race_checkpoint"]
+	path = addons/2024_06_31_gdp_drone_race_checkpoint
+	url = https://github.com/EloiStree/2024_06_31_gdp_drone_race_checkpoint.git

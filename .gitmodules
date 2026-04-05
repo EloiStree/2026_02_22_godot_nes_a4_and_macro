@@ -31,3 +31,6 @@
 [submodule "addons/2024_06_31_gdp_drone_race_checkpoint"]
 	path = addons/2024_06_31_gdp_drone_race_checkpoint
 	url = https://github.com/EloiStree/2024_06_31_gdp_drone_race_checkpoint.git
+[submodule "addons/2026_03_20_gdp_micro_bit"]
+	path = addons/2026_03_20_gdp_micro_bit
+	url = https://github.com/EloiStree/2026_03_20_gdp_micro_bit.git
